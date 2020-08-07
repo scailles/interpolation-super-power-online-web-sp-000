@@ -3,5 +3,6 @@
 
 rainbow = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
-def display_rainbow
+def display_rainbow(rainbow)
+end
   
